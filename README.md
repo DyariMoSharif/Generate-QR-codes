@@ -1,0 +1,2 @@
+# QR_code_generation_for_col_with_TextAndCode_under_them
+QR_code_generation_for_col and putting text under them.
